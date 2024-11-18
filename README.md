@@ -21,6 +21,12 @@ composer install
 
 ### Set Up Environment File
 
+Copy .env.example to .env
+
+```bash
+cp .env.example .env
+```
+
 Change .env according your mysql setup - 
 
 DB_HOST=127.0.0.1

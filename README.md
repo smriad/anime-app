@@ -4,7 +4,7 @@
 ### Clone the Repository  
 
 ```bash
-git clone https://github.com/your-username/anime-api.git  
+git clone https://github.com/smriad/anime-app.git 
 ```
 ### Navigate to the project directory:
 

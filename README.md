@@ -9,7 +9,7 @@ git clone https://github.com/smriad/anime-app.git
 ### Navigate to the project directory:
 
 ```bash
-cd anime-api   `
+cd anime-app
 ```
 ### Install PHP Dependencies
 
